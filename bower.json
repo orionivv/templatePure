@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "description": "app",
+  "main": "index.js",
+  "authors": [
+    "Iliev Vladislav"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/orionivv",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
